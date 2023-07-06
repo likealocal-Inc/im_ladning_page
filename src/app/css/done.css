@@ -1,0 +1,213 @@
+.page-2,
+.page-2 * {
+  box-sizing: border-box;
+}
+.page-2 {
+  background: #212e56;
+  width: 860px;
+  height: 1570px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-17 {
+  background: rgba(234, 247, 255, 0.5);
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  position: absolute;
+  left: 340px;
+  top: 353px;
+}
+.ellipse-172 {
+  background: rgba(19, 105, 249, 0.5);
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 330px;
+  top: 343px;
+}
+.vector {
+  position: absolute;
+  left: -22px;
+  top: 528px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: -22px;
+  top: 597px;
+  overflow: visible;
+}
+.application-submitted {
+  color: #ffffff;
+  text-align: center;
+  font: 700 50px/60px "Cairo", sans-serif;
+  position: absolute;
+  left: 191px;
+  top: 229px;
+}
+.group-89 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 720px;
+  height: 390px;
+  position: absolute;
+  left: 70px;
+  top: 625px;
+}
+.group-74 {
+  width: 638px;
+  height: 284px;
+  position: static;
+}
+._01 {
+  color: #1369f9;
+  text-align: left;
+  font: 700 60px "Inter", sans-serif;
+  position: absolute;
+  left: 108px;
+  top: 668px;
+}
+._02 {
+  color: #1369f9;
+  text-align: left;
+  font: 700 60px "Inter", sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 771px;
+}
+._03 {
+  color: #1369f9;
+  text-align: left;
+  font: 700 60px "Inter", sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 874px;
+}
+.please-scan-the-qr-code-below-to-add-like-a-local-customer-support {
+  color: #000000;
+  text-align: left;
+  font: 400 32px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 214px;
+  top: 663px;
+  width: 527px;
+  height: 84px;
+}
+.please-show-this-page-to-the-staff-and-pay-with-cash {
+  color: #000000;
+  text-align: justified;
+  font: 400 32px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 214px;
+  top: 767px;
+  width: 527px;
+  height: 71px;
+}
+.your-taxi-dispatch-information-will-be-sent-within-24-hours-via-the-account-you-add {
+  color: #000000;
+  text-align: left;
+  font: 400 32px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 212px;
+  top: 866px;
+  width: 529px;
+  height: 71px;
+}
+.group-73 {
+  position: absolute;
+  left: 355px;
+  top: 368px;
+  overflow: visible;
+}
+.rectangle-6 {
+  background: #eaf7ff;
+  border-radius: 10px;
+  width: 1025px;
+  height: 478px;
+  position: absolute;
+  left: -22px;
+  top: 1138px;
+}
+.english-1 {
+  width: 200px;
+  height: 196.97px;
+  position: absolute;
+  left: 330px;
+  top: 1311px;
+}
+.group-88 {
+  position: absolute;
+  inset: 0;
+}
+.group-87 {
+  width: 50px;
+  height: 50px;
+  position: static;
+}
+.group-86 {
+  width: 50px;
+  height: 50px;
+  position: static;
+}
+.ellipse-174 {
+  background: #ffef61;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 214px;
+  top: 1138px;
+}
+.vector3 {
+  position: absolute;
+  left: 236.14px;
+  top: 1149.43px;
+  overflow: visible;
+}
+.please-make-sure-you-add-our-customer-support {
+  color: #1369f9;
+  text-align: left;
+  font: 700 35px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 285px;
+  top: 1123px;
+}
+.group-90 {
+  position: absolute;
+  inset: 0;
+}
+.polygon-1 {
+  position: absolute;
+  left: 485.89px;
+  top: 1287px;
+  transform: translate(-104.45px, -38.94px);
+  overflow: visible;
+}
+.rectangle-1 {
+  background: #212e56;
+  border-radius: 10px;
+  width: 180px;
+  height: 48.46px;
+  position: absolute;
+  left: 340px;
+  top: 1227px;
+}
+.group-25 {
+  width: 102px;
+  height: 36px;
+  position: static;
+}
+.english {
+  color: #ffffff;
+  text-align: left;
+  font: 400 30px "Inter", sans-serif;
+  position: absolute;
+  left: 379px;
+  top: 1233px;
+}

@@ -1,0 +1,1138 @@
+.page-1,
+.page-1 * {
+  box-sizing: border-box;
+}
+.page-1 {
+  background: #ffffff;
+  width: 860px;
+  height: 4300px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-6 {
+  background: #212e56;
+  width: 865px;
+  height: 796px;
+  position: absolute;
+  left: -3px;
+  top: -7px;
+}
+.rectangle-12 {
+  background: #eaf7ff;
+  width: 1186px;
+  height: 2200px;
+  position: absolute;
+  left: -113px;
+  top: 723px;
+}
+.on-site-discount {
+  color: #ffef61;
+  text-align: center;
+  font: 400 48px/60px "Josefin Sans", sans-serif;
+  position: absolute;
+  top: 232px;
+  width: 100%;
+}
+.reserve-airport-transfer-service-now-have-a-safe-and-comfortable-ride-to-the-airport {
+  color: #ffffff;
+  text-align: center;
+  font: 500 26px/30px "Heiti SC", sans-serif;
+}
+.x {
+  color: #ffffff;
+  text-align: left;
+  font: 400 40px "Inter", sans-serif;
+  position: absolute;
+  left: 255px;
+  top: 37px;
+}
+._5-1 {
+  position: absolute;
+  left: 63px;
+  top: 51px;
+}
+.logo-1 {
+  height: 34.05px;
+  position: absolute;
+  left: 309px;
+  top: 48px;
+}
+.group-33 {
+  position: absolute;
+  inset: 0;
+}
+.group-32 {
+  width: 674px;
+  height: 55px;
+  position: static;
+}
+.rectangle-4 {
+  background: #ffffff;
+  width: 674px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 907px;
+}
+.select-the-arrival-airport {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 915px;
+}
+.rectangle-42 {
+  background: #ffffff;
+  width: 225px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 1133px;
+}
+.rectangle-5 {
+  background: #ffffff;
+  width: 440px;
+  height: 55px;
+  position: absolute;
+  left: 326px;
+  top: 1133px;
+}
+.rectangle-62 {
+  background: #ffffff;
+  width: 674px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 1301px;
+}
+.applicant-name {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1141px;
+}
+.rectangle-11 {
+  background: #ffffff;
+  width: 674px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 2363px;
+}
+.group-54 {
+  position: absolute;
+  inset: 0;
+}
+.group-322 {
+  width: 674px;
+  height: 142px;
+  position: static;
+}
+.rectangle-43 {
+  background: #ffffff;
+  width: 674px;
+  height: 142px;
+  position: absolute;
+  left: 92px;
+  top: 965px;
+}
+.incheon-international-airport-terminal-1-incheon-international-airport-terminal-2-gimpo-international-airport {
+  color: #212e56;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 146px;
+  top: 981px;
+  width: 564px;
+}
+.group-57 {
+  position: absolute;
+  inset: 0;
+}
+.group-56 {
+  width: 674px;
+  height: 84px;
+  position: static;
+}
+.group-323 {
+  width: 674px;
+  height: 84px;
+  position: static;
+}
+.rectangle-44 {
+  background: #ffffff;
+  width: 674px;
+  height: 84px;
+  position: absolute;
+  left: 92px;
+  top: 1214px;
+}
+.pick-up-location {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1221px;
+  width: 254px;
+  height: 34.73px;
+}
+.ex-lotte-hotel-seoul {
+  color: #1369f9;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1265px;
+}
+.rectangle-7 {
+  background: #ffffff;
+  width: 674px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 1469px;
+}
+.group-61 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-45 {
+  background: #ffffff;
+  width: 674px;
+  height: 84px;
+  position: absolute;
+  left: 92px;
+  top: 1382px;
+}
+.pick-up-address {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1389.64px;
+  width: 254px;
+  height: 34.73px;
+}
+.ex-30-eulji-ro-jung-gu-seoul {
+  color: #1369f9;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1434px;
+}
+.rectangle-8 {
+  background: #ffffff;
+  width: 674px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 2027px;
+}
+.group-63 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-46 {
+  background: #ffffff;
+  width: 674px;
+  height: 84px;
+  position: absolute;
+  left: 92px;
+  top: 1940px;
+}
+.pick-up-date {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1951px;
+  width: 254px;
+  height: 34.73px;
+}
+.month-day {
+  color: #1369f9;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1991px;
+}
+.rectangle-9 {
+  background: #ffffff;
+  width: 674px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 2195px;
+}
+.group-64 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-47 {
+  background: #ffffff;
+  width: 674px;
+  height: 84px;
+  position: absolute;
+  left: 92px;
+  top: 2108px;
+}
+.pick-up-time {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 2119px;
+  width: 254px;
+  height: 34.73px;
+}
+.hour-minute {
+  color: #1369f9;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 2162px;
+}
+.group-62 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-48 {
+  background: #ffffff;
+  width: 674px;
+  height: 84px;
+  position: absolute;
+  left: 92px;
+  top: 1550px;
+}
+.number-of-passengers {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1561px;
+}
+.up-to-6-people {
+  color: #1369f9;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 1601px;
+}
+.ellipse-4 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 977px;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1022px;
+}
+.ellipse-6 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1067px;
+}
+.group-60 {
+  position: absolute;
+  inset: 0;
+}
+.group-324 {
+  width: 674px;
+  height: 277px;
+  position: static;
+}
+.rectangle-49 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 674px;
+  height: 277px;
+  position: absolute;
+  left: 92px;
+  top: 1637px;
+}
+._1-2-3-4-5-6 {
+  color: #212e56;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 146px;
+  top: 1866px;
+  width: 287px;
+  height: 232px;
+}
+.ellipse-7 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1649px;
+}
+.ellipse-8 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1694px;
+}
+.ellipse-9 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1739px;
+}
+.ellipse-10 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1784px;
+}
+.group-65 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-410 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 674px;
+  height: 84px;
+  position: absolute;
+  left: 92px;
+  top: 2276px;
+}
+.whatsapp-id {
+  color: #212e56;
+  text-align: left;
+  font: 400 30px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 2285px;
+}
+.taxi-dispatch-messages-will-be-sent-to-this-account {
+  color: #1369f9;
+  text-align: left;
+  font: 400 25px/20px "Cairo", sans-serif;
+  position: absolute;
+  left: 107px;
+  top: 2327px;
+}
+.ellipse-11 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1829px;
+}
+.ellipse-12 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  left: 107px;
+  top: 1874px;
+}
+.rectangle-13 {
+  background: #212e56;
+  width: 899px;
+  height: 1100px;
+  left: 0px;
+  top: 2840px;
+}
+.group-68 {
+  position: absolute;
+  inset: 0;
+}
+.please-reserve-at-least-24-hours-before-the-taxi-pickup-time-if-you-want-to-make-a-same-day-reservation-please-contact-like-a-local-customer-support-this-discount-is-limited-to-the-airport-drop-off-service-if-you-need-other-taxi-services-please-contact-like-a-local-customer-support-cancellation-or-refund-is-not-available-once-you-complete-the-reservation-onsite-if-you-want-to-change-the-pick-up-date-or-time-you-may-contact-like-a-local-customer-support-at-least-48-hours-before-the-scheduled-pickup-time-reservation-cannot-be-changed-on-the-same-day {
+  color: #ffffff;
+  text-align: left;
+  font: 400 31px/140% "Cairo", sans-serif;
+  position: absolute;
+  left: 42px;
+  top: 2920px;
+  width: 770px;
+  white-space: pre-wrap;
+  margin-top: 10px;
+}
+.reminders {
+  margin-bottom: 10px;
+  color: #ffffff;
+  text-align: left;
+  font: 700 32px/150% "Cairo", sans-serif;
+  left: 80px;
+  width: 122px;
+  height: 41.28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.polygon-12 {
+  margin-top: -20px;
+  left: 480px;
+  overflow: visible;
+}
+
+.vector {
+  position: absolute;
+  left: 246px;
+  top: 470.97px;
+  overflow: visible;
+}
+
+.vector2 {
+  position: absolute;
+  left: 163.64px;
+  top: 645.15px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 171px;
+  top: 676.64px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 175.25px;
+  top: 685.62px;
+  overflow: visible;
+}
+.vector5 {
+  position: absolute;
+  left: -6px;
+  top: 369.11px;
+  overflow: visible;
+}
+.vector6 {
+  position: absolute;
+  left: 217.57px;
+  top: 485.95px;
+  overflow: visible;
+}
+.vector7 {
+  position: absolute;
+  left: 232.81px;
+  top: 559.77px;
+  overflow: visible;
+}
+.vector8 {
+  position: absolute;
+  left: 252.97px;
+  top: 559.77px;
+  overflow: visible;
+}
+.vector9 {
+  position: absolute;
+  left: 273.12px;
+  top: 559.77px;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 232.81px;
+  top: 589.65px;
+  overflow: visible;
+}
+.vector11 {
+  position: absolute;
+  left: 252.97px;
+  top: 589.65px;
+  overflow: visible;
+}
+.vector12 {
+  position: absolute;
+  left: 273.12px;
+  top: 589.65px;
+  overflow: visible;
+}
+.vector13 {
+  position: absolute;
+  left: 232.81px;
+  top: 619.53px;
+  overflow: visible;
+}
+.vector14 {
+  position: absolute;
+  left: 252.97px;
+  top: 619.53px;
+  overflow: visible;
+}
+.vector15 {
+  position: absolute;
+  left: 273.12px;
+  top: 619.53px;
+  overflow: visible;
+}
+.vector16 {
+  position: absolute;
+  left: 232.81px;
+  top: 649.41px;
+  overflow: visible;
+}
+.vector17 {
+  position: absolute;
+  left: 252.97px;
+  top: 649.41px;
+  overflow: visible;
+}
+.vector18 {
+  position: absolute;
+  left: 273.12px;
+  top: 649.41px;
+  overflow: visible;
+}
+.vector19 {
+  position: absolute;
+  left: 232.81px;
+  top: 679.28px;
+  overflow: visible;
+}
+.vector20 {
+  position: absolute;
+  left: 252.97px;
+  top: 679.28px;
+  overflow: visible;
+}
+.vector21 {
+  position: absolute;
+  left: 273.12px;
+  top: 679.28px;
+  overflow: visible;
+}
+.vector22 {
+  position: absolute;
+  left: 232.81px;
+  top: 709.16px;
+  overflow: visible;
+}
+.vector23 {
+  position: absolute;
+  left: 252.97px;
+  top: 709.16px;
+  overflow: visible;
+}
+.vector24 {
+  position: absolute;
+  left: 273.12px;
+  top: 709.16px;
+  overflow: visible;
+}
+.vector25 {
+  position: absolute;
+  left: 12px;
+  top: 461.89px;
+  overflow: visible;
+}
+.vector26 {
+  position: absolute;
+  left: 12px;
+  top: 483.57px;
+  overflow: visible;
+}
+.vector27 {
+  position: absolute;
+  left: 12px;
+  top: 505.25px;
+  overflow: visible;
+}
+.vector28 {
+  position: absolute;
+  left: 12px;
+  top: 526.92px;
+  overflow: visible;
+}
+.vector29 {
+  position: absolute;
+  left: 12px;
+  top: 548.6px;
+  overflow: visible;
+}
+.vector30 {
+  position: absolute;
+  left: 12px;
+  top: 570.28px;
+  overflow: visible;
+}
+.vector31 {
+  position: absolute;
+  left: 12px;
+  top: 591.95px;
+  overflow: visible;
+}
+.vector32 {
+  position: absolute;
+  left: 26.3px;
+  top: 694.52px;
+  overflow: visible;
+}
+.group-71 {
+  position: absolute;
+  left: 76px;
+  top: 568.8px;
+  overflow: visible;
+}
+.vector43 {
+  position: absolute;
+  left: 20px;
+  top: 409.45px;
+  overflow: visible;
+}
+.vector44 {
+  position: absolute;
+  left: 5.56px;
+  top: 694.91px;
+  overflow: visible;
+}
+.vector45 {
+  position: absolute;
+  left: 10.52px;
+  top: 705.89px;
+  overflow: visible;
+}
+.vector46 {
+  position: absolute;
+  left: 12.31px;
+  top: 689.35px;
+  overflow: visible;
+}
+.vector47 {
+  position: absolute;
+  left: 7.75px;
+  top: 698.1px;
+  overflow: visible;
+}
+.vector48 {
+  position: absolute;
+  left: 7.81px;
+  top: 698.87px;
+  overflow: visible;
+}
+.vector49 {
+  position: absolute;
+  left: 23.06px;
+  top: 701.19px;
+  overflow: visible;
+}
+.vector50 {
+  position: absolute;
+  left: 32.29px;
+  top: 701.73px;
+  overflow: visible;
+}
+.vector51 {
+  position: absolute;
+  left: 237.68px;
+  top: 682.37px;
+  overflow: visible;
+}
+.vector52 {
+  position: absolute;
+  left: 242.27px;
+  top: 682.18px;
+  overflow: visible;
+}
+.vector53 {
+  position: absolute;
+  left: 240.09px;
+  top: 694.91px;
+  overflow: visible;
+}
+.vector54 {
+  position: absolute;
+  left: 245.04px;
+  top: 705.89px;
+  overflow: visible;
+}
+.vector55 {
+  position: absolute;
+  left: 246.84px;
+  top: 689.35px;
+  overflow: visible;
+}
+.vector56 {
+  position: absolute;
+  left: 242.28px;
+  top: 698.1px;
+  overflow: visible;
+}
+.vector57 {
+  position: absolute;
+  left: 242.34px;
+  top: 698.87px;
+  overflow: visible;
+}
+.vector58 {
+  position: absolute;
+  left: 257.59px;
+  top: 701.19px;
+  overflow: visible;
+}
+.vector59 {
+  position: absolute;
+  left: 266.82px;
+  top: 701.73px;
+  overflow: visible;
+}
+.vector60 {
+  position: absolute;
+  left: 73.97px;
+  top: 413.34px;
+  overflow: visible;
+}
+.vector61 {
+  position: absolute;
+  left: 242px;
+  top: 429.62px;
+  overflow: visible;
+}
+.vector62 {
+  position: absolute;
+  left: 420px;
+  top: 505.26px;
+  overflow: visible;
+}
+.vector63 {
+  position: absolute;
+  left: 709px;
+  top: 374.15px;
+  overflow: visible;
+}
+.vector64 {
+  position: absolute;
+  left: 808px;
+  top: 302.55px;
+  overflow: visible;
+}
+.vector65 {
+  position: absolute;
+  left: 135.92px;
+  top: 487.16px;
+  overflow: visible;
+}
+.vector66 {
+  position: absolute;
+  left: 208.99px;
+  top: 648.37px;
+  overflow: visible;
+}
+.vector67 {
+  position: absolute;
+  left: 162.32px;
+  top: 569.02px;
+  overflow: visible;
+}
+.vector68 {
+  position: absolute;
+  left: 164.88px;
+  top: 568.83px;
+  overflow: visible;
+}
+.vector69 {
+  position: absolute;
+  left: 170.54px;
+  top: 570.4px;
+  overflow: visible;
+}
+.vector70 {
+  position: absolute;
+  left: 160.16px;
+  top: 576.88px;
+  overflow: visible;
+}
+.vector71 {
+  position: absolute;
+  left: 160.75px;
+  top: 578.26px;
+  overflow: visible;
+}
+.vector72 {
+  position: absolute;
+  left: 9px;
+  top: 406.43px;
+  overflow: visible;
+}
+.vector73 {
+  position: absolute;
+  left: -18px;
+  top: 478.03px;
+  overflow: visible;
+}
+._2 {
+  position: absolute;
+  left: 392px;
+  top: 464px;
+}
+.vector74 {
+  position: absolute;
+  left: 336px;
+  top: 575.85px;
+  transform: translate(-41px, 0px);
+  overflow: visible;
+}
+.vector75 {
+  position: absolute;
+  left: 329px;
+  top: 600.06px;
+  transform: translate(-11px, 0px);
+  overflow: visible;
+}
+.vector76 {
+  position: absolute;
+  left: 325px;
+  top: 607.12px;
+  transform: translate(-22px, 0px);
+  overflow: visible;
+}
+.kindpng-1488822-1 {
+  width: 373px;
+  height: 99px;
+  position: absolute;
+  left: 470px;
+  top: 357px;
+}
+.vector77 {
+  position: absolute;
+  left: 670px;
+  top: 302.55px;
+  transform: translate(12.47px, -72.37px);
+  overflow: visible;
+}
+
+.group-52 {
+  width: 291px;
+  height: 73px;
+  position: static;
+}
+.rectangle-1 {
+  background: #1369f9;
+  border-radius: 10px;
+  width: 291px;
+  height: 73px;
+  position: absolute;
+  left: 284px;
+  top: 2780px;
+}
+.group-26 {
+  width: 124px;
+  height: 40px;
+  position: static;
+}
+.group-25 {
+  width: 124px;
+  height: 40px;
+  position: static;
+}
+.submit {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 365px;
+  top: 2795px;
+}
+.money-box {
+  color: #ffffff;
+  text-align: center;
+  font: 700 72px/60px "Cairo", sans-serif;
+  position: absolute;
+  left: 207px;
+  top: 164px;
+  width: 446px;
+  height: 56px;
+}
+
+.group-702 {
+  width: 291px;
+  height: 73px;
+  position: static;
+}
+.rectangle-14 {
+  background: #1369f9;
+  border-radius: 10px;
+  width: 291px;
+  height: 73px;
+  position: absolute;
+  left: 284px;
+  top: 780px;
+}
+.group-262 {
+  width: 190px;
+  height: 40px;
+  position: static;
+}
+.group-252 {
+  width: 190px;
+  height: 40px;
+  position: static;
+}
+.apply-here {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px/40px "Cairo", sans-serif;
+  position: absolute;
+  left: 290px;
+  top: 793px;
+  width: 280px;
+}
+.polygon-1 {
+  position: absolute;
+  left: 465px;
+  top: 872px;
+  transform: translate(-66.24px, -33.75px);
+  overflow: visible;
+}
+
+.group-253 {
+  width: 77px;
+  height: 40px;
+  position: static;
+}
+
+.rectangle-15 {
+  background: #d8f0fd;
+  border-radius: 10px;
+  width: 122px;
+  height: 42px;
+  left: 390px;
+}
+
+.english {
+  color: #212e56;
+  text-align: left;
+  font: 400 25px/40px "Cairo", sans-serif;
+  left: 390px;
+  width: 110px;
+}
+.english-2 {
+  left: 385px;
+}
+
+.group-92 {
+  width: 188px;
+  height: 37px;
+  position: static;
+}
+.group-69 {
+  width: 188px;
+  height: 37px;
+  position: static;
+}
+.group-41 {
+  width: 188px;
+  height: 37px;
+  position: static;
+}
+.rectangle-16 {
+  background: #d8f0fd;
+  border-radius: 10px;
+  width: 205px;
+  height: 35px;
+  position: absolute;
+  left: 610px;
+  top: 50px;
+}
+.group-263 {
+  width: 149px;
+  height: 37px;
+  position: static;
+}
+.group-254 {
+  width: 149px;
+  height: 37px;
+  position: static;
+}
+.change-language {
+  width: 120px;
+  border-radius: 10px;
+  color: #212e56;
+  text-align: left;
+  font: 700 20px "Cairo", sans-serif;
+  position: absolute;
+  left: 700px;
+  top: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.polygon-2 {
+  position: absolute;
+  left: 803px;
+  top: 76px;
+  transform: translate(-16.79px, -13.5px);
+  overflow: visible;
+}
+
+#date {
+  font-size: 30px;
+}
+
+.react-datepicker {
+  transform: scale(1.8); /* 이 값을 변경하여 달력의 크기를 조절하세요. */
+  position: fixed; /* 달력을 고정 위치에 놓습니다. */
+  top: 0; /* 상단에서 0px 떨어져 있도록 설정합니다. */
+  left: 30%; /* 화면 가운데에 위치하도록 설정합니다. */
+  transform-origin: top center; /* 확대/축소의 기준점을 상단 중앙으로 설정합니다. */
+  margin-left: -0px; /* left 50%에 의해 중앙으로 이동한 것을 보정합니다. 값은 달력의 절반 너비를 의미해야 합니다. */
+  z-index: 1000; /* 다른 요소 위에 달력이 오도록 설정합니다. */
+}
