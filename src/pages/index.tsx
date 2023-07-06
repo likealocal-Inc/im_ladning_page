@@ -314,9 +314,9 @@ export default function Main() {
               >
                 {langData["h3-2-1"]}
               </div>
-              <div className='mt-[36px]' />
+              <div className='mt-[15px]' />
               <div
-                className='text-[#717171] text-center relative w-[342px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
+                className='text-[#717171] text-center relative w-[342px] h-[183px] flex items-start justify-center whitespace-pre-wrap tracking-wide'
                 style={{
                   font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
@@ -346,9 +346,9 @@ export default function Main() {
               >
                 {langData["h3-3-1"]}
               </div>
-              <div className='mt-[34px]' />
+              <div className='mt-[15px]' />
               <div
-                className='text-[#717171] text-center relative w-[380px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
+                className='text-[#717171] text-center relative w-[380px] h-[183px] flex items-start justify-center whitespace-pre-wrap tracking-wide'
                 style={{
                   font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
@@ -381,9 +381,9 @@ export default function Main() {
               >
                 {langData["h3-4-1"]}
               </div>
-              <div className='mt-[36px]' />
+              <div className='mt-[15px]' />
               <div
-                className='text-[#717171] text-center relative w-[342px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
+                className='text-[#717171] text-center relative w-[342px] h-[183px] flex items-start justify-center whitespace-pre-wrap tracking-wide'
                 style={{
                   font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
@@ -413,9 +413,9 @@ export default function Main() {
               >
                 {langData["h3-5-1"]}
               </div>
-              <div className='mt-[34px]' />
+              <div className='mt-[15px]' />
               <div
-                className='text-[#717171] text-center relative w-[380px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
+                className='text-[#717171] text-center relative w-[380px] h-[183px] flex items-start justify-center whitespace-pre-wrap tracking-wide'
                 style={{
                   font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
