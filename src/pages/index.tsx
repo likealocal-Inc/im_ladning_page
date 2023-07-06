@@ -131,7 +131,7 @@ export default function Main() {
             </button>
           </div> */}
           <div className='pl-[22px]' />
-          <InfoLangButton langType='cns' name='簡中' />
+          <InfoLangButton langType='cns' name='简中' />
           {/* <div className='w-[155px] h-[60px]'>
             <button
               onClick={(e) => onChangeLang("cns")}
