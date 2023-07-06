@@ -160,7 +160,7 @@ export default function Main() {
             <div className='pl-[22px]' />
           </div>
           {/* 언어 끝 */}
-          <div className='mt-[24px]' />
+          <div className='mt-[80px]' />
           {/* 소개 */}
           <div className=''>
             <div className='text-[#0516B8] flex justify-center items-center text-[52px] '>
