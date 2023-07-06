@@ -84,7 +84,7 @@ export default function Main() {
     <>
       <div className='font-NotoSans'>
         <div className='bg-white w-[1000px] h-[2800px]'>
-          <div className='pt-[223px]' />
+          <div className='pt-[110px]' />
           <div className='flex items-center justify-center'>
             <Image
               className='w-[130px] h-[50px]'
@@ -163,10 +163,10 @@ export default function Main() {
           <div className='mt-[80px]' />
           {/* 소개 */}
           <div className=''>
-            <div className='text-[#0516B8] flex justify-center items-center text-[52px] '>
+            <div className='text-[#0516B8] flex justify-center items-center text-[52px] font-bold'>
               {langData["h1-1"]}
             </div>
-            <div className='text-[#0516B8] flex justify-center items-center text-[50px] '>
+            <div className='text-[#0516B8] flex justify-center items-center text-[50px] font-bold'>
               {langData["h1-2"]}
             </div>
           </div>
