@@ -56,22 +56,30 @@ export default function Main() {
     );
   }
 
-  const InfoLangButton = ({ langType, name }: any) => {
-    return (
-      <div className='w-[155px] h-[60px]'>
-        <button
-          onClick={(e) => onChangeLang(langType)}
-          className={
-            lang !== langType
-              ? "flex justify-center items-center text-[#717171] text-[36px] bg-[#f2f0f0] rounded-[10px] w-[155px] h-[60px] p-[21px]"
-              : "flex justify-center items-center text-white text-[36px] bg-[#0515AB] rounded-[10px] w-[155px] h-[60px] p-[21px]"
-          }
-        >
-          {name}
-        </button>
-      </div>
-    );
-  };
+  //   const InfoLangButton = ({ langType, name }: any) => {
+  //     return (
+  //       <div className='w-[155px] h-[60px]'>
+  //         <button
+  //           onClick={(e) => onChangeLang(langType)}
+  //           className={
+  //             lang !== langType
+  //               ? "flex text- justify-center items-center text-[#717171] text-[36px] bg-[#f2f0f0] rounded-[10px] w-[155px] h-[60px] p-[21px]"
+  //               : "bg-[#0515ab] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden text-[36px]"
+  //           }
+  //         >
+  //           {name}
+  //         </button>
+  //         <div className='bg-[#f2f0f0] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden'>
+  //           <div
+  //             className='text-[#0515ab] text-left relative'
+  //             style={{ font: "500 36px/150% 'Noto Sans', sans-serif" }}
+  //           >
+  //             日本語
+  //           </div>
+  //         </div>
+  //       </div>
+  //     );
+  //   };
   return (
     <>
       <div className='font-NotoSans'>
@@ -102,45 +110,54 @@ export default function Main() {
           <div className='mt-[60px]' />
           {/* 언어 */}
           <div className='flex items-center justify-center'>
-            <InfoLangButton langType='en' name='English' />
-            {/* <div className='w-[155px] h-[60px]'>
             <button
               onClick={(e) => onChangeLang("en")}
-              className='flex justify-center items-center text-[#717171] text-[36px] bg-[#f2f0f0] rounded-[10px] w-[155px] h-[60px] p-[21px]'
+              className={
+                lang === "en"
+                  ? `bg-[#0515ab] text-[#ffffff] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden`
+                  : `bg-[#f2f0f0] text-[#0515ab] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden`
+              }
+              style={{ font: "500 36px/150% 'Noto Sans', sans-serif" }}
             >
               English
             </button>
-          </div> */}
             <div className='pl-[22px]' />
-            <InfoLangButton langType='jp' name='日本語' />
-            {/* <div className='w-[155px] h-[60px]'>
             <button
               onClick={(e) => onChangeLang("jp")}
-              className='flex justify-center items-center text-[#717171] text-[36px] bg-[#f2f0f0] rounded-[10px] w-[155px] h-[60px] p-[21px]'
+              className={
+                lang === "jp"
+                  ? "bg-[#0515ab] text-[#ffffff]  rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden"
+                  : "bg-[#f2f0f0] text-[#0515ab]  rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden"
+              }
+              style={{ font: "500 36px/150% 'Noto Sans', sans-serif" }}
             >
               日本語
             </button>
-          </div> */}
             <div className='pl-[22px]' />
-            <InfoLangButton langType='cnb' name='繁中' />
-            {/* <div className='w-[155px] h-[60px]'>
             <button
               onClick={(e) => onChangeLang("cnb")}
-              className='flex justify-center items-center text-[#717171] text-[36px] bg-[#f2f0f0] rounded-[10px] w-[155px] h-[60px] p-[21px]'
+              className={
+                lang === "cnb"
+                  ? "bg-[#0515ab] text-[#ffffff] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden"
+                  : "bg-[#f2f0f0] text-[#0515ab] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden"
+              }
+              style={{ font: "500 36px/150% 'Noto Sans', sans-serif" }}
             >
               繁中
             </button>
-          </div> */}
             <div className='pl-[22px]' />
-            <InfoLangButton langType='cns' name='简中' />
-            {/* <div className='w-[155px] h-[60px]'>
             <button
               onClick={(e) => onChangeLang("cns")}
-              className='flex justify-center items-center text-[#717171] text-[36px] bg-[#f2f0f0] rounded-[10px] w-[155px] h-[60px] p-[21px]'
+              className={
+                lang === "cns"
+                  ? "bg-[#0515ab] text-[#ffffff] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden"
+                  : "bg-[#f2f0f0] text-[#0515ab] rounded-[40px] pt-2 pr-10 pb-2 pl-10 flex flex-row gap-2.5 items-center justify-center shrink-0 relative overflow-hidden"
+              }
+              style={{ font: "500 36px/150% 'Noto Sans', sans-serif" }}
             >
-              簡中
+              简中
             </button>
-          </div> */}
+            <div className='pl-[22px]' />
           </div>
           {/* 언어 끝 */}
           <div className='mt-[24px]' />
