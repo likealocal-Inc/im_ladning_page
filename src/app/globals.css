@@ -17,6 +17,7 @@
 }
 
 body {
+  font-family: -apple-system, NotoSans, sans-serif;
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -24,4 +25,12 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+
+@font-face {
+  font-family: "NotoSans";
+  src: url("../../public/fonts/Noto_Sans/NotoSans-Regular.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
