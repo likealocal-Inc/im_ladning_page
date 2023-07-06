@@ -316,16 +316,16 @@ export default function Main() {
               </div>
               <div className='mt-[36px]' />
               <div
-                className='text-[#717171] text-center relative w-[322px] h-[143px] flex items-center justify-center'
+                className='text-[#717171] text-center relative w-[342px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
                 style={{
-                  font: "400 38px/55px 'Taipei Sans TC Beta', sans-serif",
+                  font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
               >
                 {langData["h3-2-2"]}
               </div>
             </div>
             {/* 왼상 끝 */}
-            <div className='ml-[45px]' />
+            <div className='ml-[40px]' />
             {/* 왼상 */}
             <div className='flex flex-col items-center justify-center'>
               <div className='flex justify-center items-center bg-[#eaf7ff] rounded-[20px] w-[163.73px] h-[161.53px] relative'>
@@ -348,9 +348,9 @@ export default function Main() {
               </div>
               <div className='mt-[34px]' />
               <div
-                className='text-[#717171] text-center relative w-[366px] h-[143px] flex items-center justify-center'
+                className='text-[#717171] text-center relative w-[380px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
                 style={{
-                  font: "400 38px/55px 'Taipei Sans TC Beta', sans-serif",
+                  font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
               >
                 {langData["h3-3-2"]}
@@ -383,9 +383,9 @@ export default function Main() {
               </div>
               <div className='mt-[36px]' />
               <div
-                className='text-[#717171] text-center relative w-[322px] h-[143px] flex items-center justify-center'
+                className='text-[#717171] text-center relative w-[342px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
                 style={{
-                  font: "400 38px/55px 'Taipei Sans TC Beta', sans-serif",
+                  font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
               >
                 {langData["h3-4-2"]}
@@ -415,9 +415,9 @@ export default function Main() {
               </div>
               <div className='mt-[34px]' />
               <div
-                className='text-[#717171] text-center relative w-[366px] h-[143px] flex items-center justify-center'
+                className='text-[#717171] text-center relative w-[380px] h-[183px] flex items-center justify-center whitespace-pre-wrap tracking-wide'
                 style={{
-                  font: "400 38px/55px 'Taipei Sans TC Beta', sans-serif",
+                  font: "400 33px/55px 'Taipei Sans TC Beta', sans-serif",
                 }}
               >
                 {langData["h3-5-2"]}
