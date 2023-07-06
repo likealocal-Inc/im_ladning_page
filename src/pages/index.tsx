@@ -163,7 +163,7 @@ export default function Main() {
           <div className='mt-[24px]' />
           {/* 소개 */}
           <div className=''>
-            <div className='text-[#0516B8] flex justify-center items-center text-[50px] '>
+            <div className='text-[#0516B8] flex justify-center items-center text-[52px] '>
               {langData["h1-1"]}
             </div>
             <div className='text-[#0516B8] flex justify-center items-center text-[50px] '>
@@ -193,7 +193,7 @@ export default function Main() {
 
           {/* 푸른영역 */}
           <div className='w-full mt-[-50px] h-[400px] bg-[#EAF7FF] flex flex-col justify-center items-center'>
-            <div className='text-[#2337C1] text-[45px] '>
+            <div className='text-[#2337C1] text-[48px] '>
               {langData["h2-1"]}
             </div>
             <div className='mt-[6px]' />
